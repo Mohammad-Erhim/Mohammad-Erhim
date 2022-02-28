@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - my name is mohammad-erhim 
-- i am from Palestine 
+- i am from palestine 
 - html - jsx
 - js - nodejs - ts - react - redux - test (e2e) - nextjs
 - css - scss (sass) - bootstrap - tailwind 
