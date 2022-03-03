@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- my name is mohammad-erhim 
+- my name is mohammad erhim 
 - i am from palestine 
 - html - jsx
 - js - nodejs - ts - react - redux - test (e2e) - nextjs - webpack
