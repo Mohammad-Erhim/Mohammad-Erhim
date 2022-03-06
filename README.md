@@ -1,5 +1,5 @@
 # Hi there 👋
-# PS: I can write the logic in redux but I wrote it inside the components because it is for preview only.
+# PS: I can write the logic in redux but I wrote it inside the components because it is for preview only. I will clean the code in the future.
 - my name is mohammad erhim 
 - i am from palestine 
 - html - jsx
