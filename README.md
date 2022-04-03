@@ -1,9 +1,9 @@
 # Hi there 👋
-# PS: I can write the logic inside redux but I wrote it inside the components because it is for preview only. I will clean the code in the future.
+ 
 - my name is mohammad erhim 
 - i am from palestine 
 - html - jsx
-- js - nodejs - ts - react - redux - test (e2e) - nextjs - webpack
+- js - nodejs - ts - react - redux - test - nextjs - webpack
 - css - scss (sass) - bootstrap - tailwind 
 
 # twitter-app
