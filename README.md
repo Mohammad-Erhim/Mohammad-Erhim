@@ -12,7 +12,7 @@
 
 https://user-images.githubusercontent.com/75538560/155997836-308eca42-1f91-48ad-a9bf-b6442c3b4178.mp4
 
-# multiple-choices (with test `end to end` example)
+# multiple-choices (with test example)
 
 ## Demo [https://multiple-choices-2018.herokuapp.com/](https://multiple-choices-2018.herokuapp.com/)
 (email:`test@gmail.com`,password:`111111`)
