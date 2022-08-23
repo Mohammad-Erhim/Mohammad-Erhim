@@ -3,7 +3,7 @@
 - my name is mohammad erhim 
 - i am from palestine 
 - html - jsx
-- js - nodejs - ts - react - redux - test - nextjs - webpack
+- js - nodejs - ts - react - react native - redux - test - nextjs - webpack
 - css - scss (sass) - bootstrap - tailwind 
 
 # twitter-app
