@@ -5,10 +5,6 @@
 Computer Systems Engineer with professional experience building and maintaining
 web, mobile, AI, automation, and cloud-based software systems.
 
-I worked at **Dash** from internships through a Software Developer role, contributing
-to production products across healthcare, travel, booking, mobile applications,
-conversational AI, and automation.
-
 ## 🚀 What I Work With
 
 - **Full-Stack Development** — React, Next.js, Node.js, NestJS, Laravel
