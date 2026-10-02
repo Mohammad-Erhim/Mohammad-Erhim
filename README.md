@@ -1,43 +1,43 @@
 # Hi, I'm Mohammad Erhim 👋
 
-### Full-Stack, Mobile & AI Software Engineer
+### Software Engineer | Full-Stack, Mobile & AI Engineering
 
-Software Engineer and Computer Systems Engineer experienced in building **web apps, mobile apps, backend systems, AI agents, automation workflows, APIs, and cloud-based applications**.
+Computer Systems Engineer with professional experience building and maintaining
+web, mobile, AI, automation, and cloud-based software systems.
 
-### 🛠 Tech Stack
+I worked at **Dash** from internships through a Software Developer role, contributing
+to production products across healthcare, travel, booking, mobile applications,
+conversational AI, and automation.
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Mobile:** React Native, Flutter, Swift/SwiftUI  
-**Backend:** Node.js, NestJS, Express, Laravel  
-**AI & Automation:** Python, LiveKit Agents, LLM APIs, n8n  
-**Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-**Cloud & DevOps:** AWS, Docker, Linux, Git/GitHub  
-**Testing:** Appium, WebdriverIO, Playwright
+## 🚀 What I Work With
 
-### 🚀 What I Work On
+- **Full-Stack Development** — React, Next.js, Node.js, NestJS, Laravel
+- **Mobile Development** — React Native, Flutter, native integrations
+- **Native Development** — Swift, SwiftUI, macOS applications
+- **AI & Automation** — AI agents, LLM integrations, tool/function calling, n8n
+- **Conversational AI** — Python, LiveKit Agents, Bland AI
+- **Cloud & Infrastructure** — AWS, Amplify, EC2, S3, Device Farm, Docker, Linux
+- **Testing & QA** — Appium, WebdriverIO, E2E and mobile automation
+- **Integrations** — Twilio, Stripe, Telegram, REST APIs, webhooks
 
-- Full-Stack Web Development
-- React Native Mobile Apps
-- Backend & API Development
-- AI Agents & Conversational AI
-- Real-Time Voice Agents
-- n8n & AI Automation
-- API & Third-Party Integrations
-- Automated Testing & Debugging
+## 🧠 Engineering Approach
 
-### 💼 Selected Projects
+I use AI-assisted engineering to accelerate research, development, debugging,
+testing, automation, and adoption of new technologies while keeping software
+engineering fundamentals at the center of the work.
 
-**Voxira** — Conversational AI and real-time voice agents using Python & LiveKit  
-**Najieb** — Full-stack AI voice-agent platform using React, Laravel, Python, LiveKit & Twilio  
-**AI News Analyzer** — n8n + AI automation, scoring, database processing & Telegram delivery  
-**RecordMemoAI** — Native macOS AI productivity app using Swift & SwiftUI  
-**Car Rental Platform** — React + React Native + NestJS full-stack application
+## 🎓 Education
 
-### 🤝 Connect
+**B.Sc. in Computer Systems Engineering**  
+Al-Azhar University – Gaza  
+GPA: **88.4 / 100**
 
-📧 mohammad.erhim.dev@gmail.com  
-💻 [github.com/Mohammad-Erhim](https://github.com/Mohammad-Erhim)
+## 🌐 Languages
 
----
+- Arabic — Native
+- English — Conversational
 
-`React` `React Native` `TypeScript` `Node.js` `NestJS` `Python` `AI Agents` `LiveKit` `n8n` `AWS`
+## 📫 Contact
+
+- **Email:** [mohammad.erhim.dev@gmail.com](mailto:mohammad.erhim.dev@gmail.com)
+- **LinkedIn:** [Mohammad Erhim](https://www.linkedin.com/in/mohammad-erhim-10995021a/)
