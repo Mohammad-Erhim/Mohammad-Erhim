@@ -36,6 +36,6 @@ GPA: **88.16 / 100**
 ## 📫 Contact
 
 - **Website:** [Mohammad Erhim - Website](https://mohammad-erhim.dev/)
-- **LinkedIn:** [Mohammad Erhim - LinkedIn](https://www.linkedin.com/in/mohammad-erhim-10995021a/)
+- **LinkedIn:** [Mohammad Erhim - LinkedIn](https://www.linkedin.com/in/mohammad-erhim)
 - **Email:** [mohammad.erhim.dev@gmail.com](mailto:mohammad.erhim.dev@gmail.com)
 
