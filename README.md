@@ -26,7 +26,7 @@ engineering fundamentals at the center of the work.
 
 **B.Sc. in Computer Systems Engineering**  
 Al-Azhar University – Gaza  
-GPA: **88.4 / 100**
+GPA: **88.16 / 100**
 
 ## 🌐 Languages
 
